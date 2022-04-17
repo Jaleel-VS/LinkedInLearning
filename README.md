@@ -1,4 +1,4 @@
-# LinkedInLearing
+# LinkedInLearning
 Repo for keeping track of my course progress 
 
 Planned courses:
