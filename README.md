@@ -4,7 +4,7 @@ Repo for keeping track of my course progress
 Planned courses:
 | Resource |  Length | Progress |
 | --------------- | --------------- | --------------- |
-| [Rust essential training](https://www.linkedin.com/learning/rust-essential-training) | 6h 39m | ![%](https://progress-bar.dev/5) |
+| [C++ Essential Training](https://www.linkedin.com/learning/c-plus-plus-essential-training/) | 6h 39m | ![%](https://progress-bar.dev/5) |
 
 
 
